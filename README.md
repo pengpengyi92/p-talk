@@ -6,7 +6,7 @@
 - **[用 Issue 提个话题](https://github.com/pengpengyi92/p-talk/issues/new?template=talk-topic.md)**：想征集某个主题或一起做一期 Talk，可以留个提案。已有讨论就直接回复，不用两边都发。
 - **[翻翻 Talk 归档](talk/)**：我们不定期把当天想说的话放进 `talk/`，每条有标题、带时区的时间戳和讨论入口。
 
-第一条 Talk：[我很喜欢《赛博朋克：边缘行者 2》](talk/2026-11-15-cyberpunk-edgerunners-2.md)。欢迎来说一句：夜之城最吸引你的是什么？
+第一条 Talk：[我很喜欢《赛博朋克：边缘行者 2》](talk/2026-11-15-cyberpunk-edgerunners-2.md) · [直接接话 #1](https://github.com/pengpengyi92/p-talk/discussions/1)。夜之城最吸引你的是什么？
 
 **P-Narrative** 是我们的私有内部（proprietary / prop）叙事仓库。P-Talk 是独立的公开空间，不需要私库权限，也不搬运内部内容。这里是公开、异步的 GitHub 讨论区，不是私信或实时聊天室；请别贴私人信息、密钥或未经许可的内容，有剧透先提醒，彼此友好就好。
 
