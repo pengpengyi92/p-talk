@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "随便聊几句 / Open a Discussion"
+    url: https://github.com/pengpengyi92/p-talk/discussions/categories/general
+    about: "Conversation, quick comments, and sharing belong in Discussions."
