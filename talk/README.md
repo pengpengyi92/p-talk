@@ -4,6 +4,7 @@
 
 | 发布时间（UTC+08:00） | Talk | 接话 |
 | --- | --- | --- |
+| 2026-11-15T16:40:56+08:00 | [想让 GitHub 成为沟通门户｜从 Corporate Banking 开源贡献聊起](2026-11-15-github-communication-corporate-banking.md) | [Discussion #2](https://github.com/pengpengyi92/p-talk/discussions/2) |
 | 2026-11-15T00:05:54+08:00 | [我很喜欢《赛博朋克：边缘行者 2》](2026-11-15-cyberpunk-edgerunners-2.md) | [Discussion #1](https://github.com/pengpengyi92/p-talk/discussions/1) |
 
 欢迎[打开讨论区](https://github.com/pengpengyi92/p-talk/discussions/categories/general)聊两句。
