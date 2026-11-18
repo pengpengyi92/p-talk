@@ -6,9 +6,7 @@
 - **[用 Issue 提个话题](https://github.com/pengpengyi92/p-talk/issues/new?template=talk-topic.md)**：想征集某个主题或一起做一期 Talk，可以留个提案。已有讨论就直接回复，不用两边都发。
 - **[翻翻 Talk 归档](talk/)**：我们不定期把当天想说的话放进 `talk/`，每条有标题、带时区的时间戳和讨论入口。
 
-当前话题 · [多年以后，此刻我又在听 Yorushika 的《冬眠》](talk/2026-11-19-yorushika-hibernation.md) · [直接接话 #3](https://github.com/pengpengyi92/p-talk/discussions/3)。欢迎分享一首听了很多年、现在仍然喜欢的歌。
-
-往期话题 · [从企业银行开源贡献聊 GitHub 沟通门户](talk/2026-11-15-github-communication-corporate-banking.md) · [直接接话 #2](https://github.com/pengpengyi92/p-talk/discussions/2)。欢迎交流企业付款和对账的开源案例。
+当前话题 · [从企业银行开源贡献聊 GitHub 沟通门户](talk/2026-11-15-github-communication-corporate-banking.md) · [直接接话 #2](https://github.com/pengpengyi92/p-talk/discussions/2)。欢迎交流企业付款和对账的开源案例。
 
 第一条 Talk：[我很喜欢《赛博朋克：边缘行者 2》](talk/2026-11-15-cyberpunk-edgerunners-2.md) · [直接接话 #1](https://github.com/pengpengyi92/p-talk/discussions/1)。夜之城最吸引你的是什么？
 
