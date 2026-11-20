@@ -6,7 +6,9 @@
 - **[用 Issue 提个话题](https://github.com/pengpengyi92/p-talk/issues/new?template=talk-topic.md)**：想征集某个主题或一起做一期 Talk，可以留个提案。已有讨论就直接回复，不用两边都发。
 - **[翻翻 Talk 归档](talk/)**：我们不定期把当天想说的话放进 `talk/`，每条有标题、带时区的时间戳和讨论入口。
 
-当前话题 · [时代的巨轮：灵感、生产力和试错的档案](talk/2026-11-19-time-wheel.md) · [直接接话 #4](https://github.com/pengpengyi92/p-talk/discussions/4)。
+当前话题 · [Effective Altruism is cool!](talk/2026-11-21-effective-altruism-is-cool.md) · [直接接话 #5](https://github.com/pengpengyi92/p-talk/discussions/5)。
+
+上一条话题 · [时代的巨轮：灵感、生产力和试错的档案](talk/2026-11-19-time-wheel.md) · [直接接话 #4](https://github.com/pengpengyi92/p-talk/discussions/4)。
 
 也可以聊聊[从企业银行开源贡献聊 GitHub 沟通门户](talk/2026-11-15-github-communication-corporate-banking.md) · [直接接话 #2](https://github.com/pengpengyi92/p-talk/discussions/2)。欢迎交流企业付款和对账的开源案例。
 
